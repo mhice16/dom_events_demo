@@ -1,0 +1,17 @@
+body {
+  background-color: wheat;
+}
+
+tr:nth-child(2) {
+  background-color: grey;
+}
+
+table, th {
+  border: 1px solid black;
+}
+
+button {
+  border-radius: 50%;
+  height: 10em;
+  width: 10em;
+}
